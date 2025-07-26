@@ -74,8 +74,8 @@ sistem-donor-darah/
 | **Documentation** | None | Comprehensive docs |
 
 ### Database Roles Fixed
-- **Admin Role**: ID 1 (admin@example.com / admin123)
-- **User Role**: ID 2 (user@example.com / user123)
+- **Admin Role**: ID 1 (admin@donor.com / password)
+- **User Role**: ID 2 (user@donor.com / password)
 
 ## 🎨 Design Features
 
