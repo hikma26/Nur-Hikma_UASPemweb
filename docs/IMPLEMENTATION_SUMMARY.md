@@ -145,8 +145,8 @@ The system is now fully responsive:
 4. **User Panel**: Login as user → redirected to user dashboard
 
 ### Test Accounts
-- **Admin**: admin@example.com / admin123
-- **User**: user@example.com / user123
+- **Admin**: admin@donor.com / password
+- **User**: user@donor.com / password
 
 ### Development Workflow
 1. **Models**: Create in `app/models/` extending `BaseModel`
