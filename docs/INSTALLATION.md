@@ -16,7 +16,7 @@ Proses instalasi untuk Sistem Donor Darah Kabupaten Mamuju Tengah:
    Clone atau download proyek ini ke direktori server lokal Anda.
 
    ```bash
-   git clone https://github.com/username/UAS_PWEB.git
+   git clone https://github.com/hikma26/Nur-Hikma_UASPemweb.git
    ```
 
 2. **Instalasi XAMPP**
