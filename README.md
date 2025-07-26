@@ -1,10 +1,11 @@
-# Sistem Donor Darah - Kabupaten Mamuju Tengah
-🔗 **Demo Hosting:** [https://hikma.mangaverse.my.id](https://hikma.mangaverse.my.id)  
-🎥 **Link Video Presentasi:** *[https://youtu.be/L1lxlSs4QPg](https://youtu.be/L1lxlSs4QPg)*
+[![Tonton Video Demo](https://img.youtube.com/vi/L1lxlSs4QPg/maxresdefault.jpg)](https://youtu.be/L1lxlSs4QPg)
+🔗 **Website Sistem:** [hikma.mangaverse.my.id](https://hikma.mangaverse.my.id)
+
+# 🩸 Sistem Donor Darah - Kabupaten Mamuju Tengah
 
 Sistem Manajemen Donor Darah yang dikembangkan untuk memfasilitasi kegiatan donor darah di Kabupaten Mamuju Tengah, termasuk pengelolaan pendonor, stok darah, permintaan darah, dan jadwal donor.
 
-## 🩸 Tentang Proyek
+## Tentang Proyek
 
 Sistem Donor Darah Kabupaten Mamuju Tengah adalah aplikasi web berbasis PHP yang dirancang untuk memudahkan pengelolaan aktivitas donor darah. Sistem ini menyediakan platform lengkap untuk admin, petugas PMI, dan masyarakat umum dalam mengelola donor darah, stok darah, dan permintaan darah secara terpadu.
 
